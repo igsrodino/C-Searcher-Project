@@ -5,10 +5,10 @@ using System.Text;
 using System.Text.RegularExpressions;
 
 
-namespace ConsoleApp2
+namespace Searcher_Project
 {
     // Class name for this program.
-    class Assignment
+    class Project
     {
         // Level 1 method, links with in main method
         public static void Level1(string filename, int starting_point, int amount_to_show)
